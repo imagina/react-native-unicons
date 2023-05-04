@@ -10,8 +10,6 @@
   },
   "dependencies": {
     "@iconscout/react-native-unicons": "0.0.1",
-    "react": "16.8.6",
-    "react-native": "0.60.4",
     "react-native-svg": "^9.5.3"
   },
   "devDependencies": {
